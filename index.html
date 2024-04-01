@@ -15,11 +15,11 @@
     console.log("I have picked a number between 1 and 555");
 
     const/*antiam*/ secretNumber = Math.floor(Math.random() * 555) + 1;
-    const/*antiam*/ guess = 0;
-    const/*antiam*/ attempts = 0;
+    let guess = 0;
+    let attempts = 0;
 
     while (guess !== secretNumber) {
-        guess = parseInt(prompt("Enter your guess (1-100):"));
+        guess = parseInt(prompt("Enter your guess (1-555):"));
         attempts++;
 
         if (isNaN(guess)) {

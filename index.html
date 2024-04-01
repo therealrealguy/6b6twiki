@@ -10,5 +10,32 @@
 <body>
   <a href="https://6b6t-wiki.vercel.app/"><img src="0e3ba5835d733b027f1b8dddce53cdd7.webp" alt="alternate textations" /></a>
   <h1 id="wip">Work In Progress</h1>
+  <script> function esteregg() {
+    console.log("you found ester egg");
+    console.log("I have picked a number between 1 and 555");
+
+    const/*antiam*/ secretNumber = Math.floor(Math.random() * 555) + 1;
+    const/*antiam*/ guess;
+    const/*antiam*/ attempts = 0;
+
+    while (guess !== secretNumber) {
+        guess = parseInt(prompt("Enter your guess (1-100):"));
+        attempts++;
+
+        if (isNaN(guess)) {
+            console.log("a number");
+        } else if (guess < secretNumber) {
+            console.log("Higher!");
+        } else if (guess > secretNumber) {
+            console.log("Lower!");
+        } else {
+            console.log(`Congratulations! You've guessed the number ${secretNumber} correctly!`);
+            console.log(`It took you ${attempts} attempts.`);
+        }
+    }
+}
+
+esteregg();
+</script>
 </body>
 </html>

@@ -7,6 +7,8 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
+import { Analytics } from "@vercel/analytics/react"
+
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -22,6 +24,8 @@ function HomepageHeader() {
             to="/docs/introduction">
             Read
           </Link>
+          
+          <Analytics/>
         </div>
       </div>
     </header>

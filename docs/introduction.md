@@ -1,6 +1,10 @@
 ---
 sidebar_position: 1
 sidebar_label: 'Introduction'
+title: 'Introduction'
+slug: /
+tags:
+  - Getting Started
 ---
 
 # 6b6t.org wiki introduction

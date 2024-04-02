@@ -41,11 +41,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
+          routeBasePath: '/', // Serve the docs at the site's root
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -66,7 +62,7 @@ const config = {
           src: 'img/logo.jpg',
         },
         items: [
-          { to: '/docs/introduction', label: 'Wiki', position: 'left' },
+          { to: '/', label: 'Wiki', position: 'left' },
           {
             href: 'https://github.com/therealrealguy/6b6twiki/',
             label: 'GitHub',
@@ -83,6 +79,10 @@ const config = {
               {
                 label: '6b6t.org Official Website',
                 to: 'https://www.6b6t.org/',
+              },
+              {
+                label: 'Credits',
+                to: '/credits',
               }
             ],
           },

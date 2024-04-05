@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: '6b6t Wiki',
   tagline: '6builders 6tools wiki',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icons/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://6b6t-wiki.vercel.app/',
@@ -54,12 +54,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/logo.jpg',
+      image: 'img/icons/logo.jpg',
       navbar: {
         title: 'The 6b6t wiki',
         logo: {
           alt: '6b6t wiki logo',
-          src: 'img/logo.jpg',
+          src: 'img/icons/logo.jpg',
         },
         items: [
           { to: '/', label: 'Wiki', position: 'left' },

@@ -16,3 +16,7 @@ Markdown is kinda like HTML because it lets you edit the way text looks like you
 
 ## I have made changes to a file locally then what ?
 Make a pull request to the GitHub repository, if it gets accepted it will get pushed merged with the project and automatically built and deployed (if there aren't errors in the build) on vercel, if it gets rejected, well, it doesnt get merged with the project.
+
+## How can i view the changes i made ?
+You can run `npm install` (to make sure all packages are installed) and `npm run start` to run the website locally and go to the address in the console. The website automatically restarts when a file changes so you do not need to restart it manually.
+**NOTE:** The website you are looking at is only accesible to people connected to your network

@@ -7,9 +7,10 @@ tags:
   - Contributing
 ---
 
-This is a template that shows how you should write a page about an user
+This is a template that shows how you should write a page about a server
 
 ### General
+* Online: `Yes`
 * Name: 6b6t
 * Website: [6b6t.org](https://www.6b6t.org/)
 * Shop: [shop.6b6t.org](https://shop.6b6t.org/)

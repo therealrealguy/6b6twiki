@@ -19,12 +19,12 @@ This is a template that shows how you should write a page about an user
 Contacts:
 * Discord
   * user01xdlol.
-* [YouTube](youtube)
-* [NameMC](namemc)
+* [YouTube](https://www.youtube.com/)
+* [NameMC]([namemc](https://namemc.com/))
 
 ### Acomplishments
 - Built highway called interstate 01
-- Griefed bot01's [megabase](https://ThisPageGoesToTheMegabaseWikiPage.com)
+- Griefed bot01's megabase *(With optional link to megabase)*
 
 ### Clans
 - usee clan

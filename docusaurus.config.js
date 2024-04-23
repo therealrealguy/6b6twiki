@@ -11,9 +11,9 @@ const config = {
   title: '6b6t Wiki',
   tagline: '6builders 6tools wiki',
   favicon: 'img/icons/favicon.ico',
-  onBrokenLinks: 'warn'
+
   // Set the production url of your site here
-  url: 'https://6b6t-wiki.vercel.app/'
+  url: 'https://6b6t-wiki.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -23,7 +23,7 @@ const config = {
   organizationName: '6b6t', // Usually your GitHub org/user name.
   projectName: '6b6t-wiki', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn', // advik here this was buggin me cause i tend to link nonexistent sites to show a page or like a placeholder
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set

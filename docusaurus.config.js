@@ -11,7 +11,7 @@ const config = {
   title: '6b6t Wiki',
   tagline: '6builders 6tools wiki',
   favicon: 'img/icons/favicon.ico',
-
+  onBrokenLinks: 'warn'
   // Set the production url of your site here
   url: 'https://6b6t-wiki.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served

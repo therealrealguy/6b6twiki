@@ -1,27 +1,15 @@
 ---
 sidebar_position: 3
-sidebar_label: 'Origin'
-title: 'Origin'
+sidebar_label: 'Sources'
+title: 'Sources'
 tags:
   - History
+  - Sources
 ---
 
-`6b6t` was born in March of `2019`. During its early stages, it had a small player base ranging from 5-20 players at times and would sometimes get over 30 players.
+[8b8t.me wiki - The 6b6t era](https://wiki.8b8t.me/index.php?title=History#:~:text=6b6t.org%20/%206b6t.co%20Era%20(March%202019%20to%20January%202021),-The%206b6t%20era)
 
-The server at the time was also premium and not cracked like it is today. During this time, Leee and 0b0t's players and staff had much conflict, such as `0b0t` players joining `6b6t` to crash, lag or bot the server. This conflict would go on until June of `2020`. `6b6t` was a premium server until Leee launched a cracked server sometime in late `2019` under the subdomain `cracked.6b6t.org`.
-
-The cracked server did not get many players as most people would play on the premium server `6b6t.org`.
-Not a lot happened for `6b6t` during 2019 as `6b6t` was just starting out it was not until 2020 during the COVID-19 pandemic where `6b6t` drastically changed.
-
-In April-May 2020, the Premium server was shutdown so it became a completely cracked server. Sometime in April 2020 during the COVID-19 world pandemic, YouTuber [MrCramYT](https://www.youtube.com/@MrCramYT) livestreamed on `6b6t` and the server gained about 60 players. He later uploaded a now deleted video about `6b6t` in June of 2020. This then motivated Leee to continue working on the cracked server and shut down the premium server after a hard drive failure. During the summer and winter of 2020 `6b6t` gained alot of players.
-
-The map was reset multiple times in 2019.
-Then in November (of 2019) the main IP became cracked.6b6t.org then later Leee was able to recover the premium map and both servers split again.
-
-The last time it reset was before its shutdown and sale in January of 2021 when 6b6t was backdoored and ratted. This resulted in Leee having to reset the server (the server files were kept on an external hard drive) in order to resolve the issue. While resetting the server the backup got corrupted which caused Leee to reset the map for the final time until 6b6t shutdown and the domain was sold but no server files were publicly given.
-This map was then used when the server relaunched as 7b7t.me and is still the same map that is being used today on 8b8t.
-
-# Original messages
+# Original (Discord) messages on 6b6t wiki's server
 # DSNS's version
 According to the website, `6b6t` was created in 2022 but according to DSNS it was created atleast before July 2019 time during wich Leeewith3Es was the owner and DSNS joined, proof is [this](https://www.youtube.com/watch?v=eaW-yZpxiqk) youtube AD released July 18th 2019. The server was kinda active, nowhere near the player count it is today.
 There was a bunch of admin abuse, `thetroll2001` had OP perms

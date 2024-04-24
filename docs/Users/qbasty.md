@@ -15,6 +15,7 @@ tags:
 
 Contacts:
 * Discord: `qbasty`
+* [NameMC](https://namemc.com/profile/qbasty.1)
 
 ### Acomplishments
 - Owner of 6b6t

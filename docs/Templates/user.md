@@ -26,6 +26,9 @@ Contacts:
 - Built highway called interstate 01
 - Griefed bot01's megabase *(With optional link to megabase)*
 
+### Skin
+(skin png from namemc)
+
 ### Clans
 - usee clan
 - example clan

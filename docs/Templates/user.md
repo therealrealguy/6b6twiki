@@ -20,7 +20,7 @@ Contacts:
 * Discord
   * user01xdlol.
 * [YouTube](https://www.youtube.com/)
-* [NameMC]([namemc](https://namemc.com/))
+* [NameMC](https://namemc.com/)
 
 ### Acomplishments
 - Built highway called interstate 01

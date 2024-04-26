@@ -3,6 +3,7 @@ sidebar_label: 'aeronave50'
 title: 'aeronave50'
 tags:
   - Player
+  - 6b6t
 ---
 
 # aeronave50

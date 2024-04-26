@@ -11,8 +11,7 @@ tags:
 ### Names
 * IRL name: Juan José 
   * (Note: We asked if he wanted his IRL name, (which was included in the word document he sent) on here, he said [yes](../../static/img/Screenshots/proof.png))
-* Formal name: aeronave50
-* Informal name: aeronave50
+* Name: aeronave50
 * Mainly goes by: preffered
 
 ## Contact

@@ -1,6 +1,6 @@
 ---
-sidebar_label: '254n_m'
-title: '254n_m'
+sidebar_label: 'aeronave50'
+title: 'aeronave50'
 tags:
   - User
   - Player

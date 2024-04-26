@@ -2,7 +2,7 @@
 sidebar_label: 'qbasty'
 title: 'qbasty'
 tags:
-  - User
+  - Player
   - Owner
   - 6b6t
 ---

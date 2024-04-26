@@ -2,7 +2,6 @@
 sidebar_label: 'aeronave50'
 title: 'aeronave50'
 tags:
-  - User
   - Player
 ---
 

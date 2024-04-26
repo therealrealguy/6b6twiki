@@ -8,11 +8,11 @@ tags:
 ---
 
 This is a template that shows how you should write a page about an user
-
-**NOTE:** user01xdlol is not a real person
+**NOTES:**
+* user01xdlol is not a real person
 
 ### Names
-* Full name: user01XDlol
+* Formal name: user01XDlol
 * Informal name: usee
 * Mainly goes by: user
 

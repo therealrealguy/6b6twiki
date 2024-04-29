@@ -25,8 +25,8 @@ This is a template that shows how you should write a page about an user
   * CapyKing10
 
 ## Acomplishments
-- Built highway called interstate 01
-- Griefed bot01's megabase *(With optional link to megabase)*
+- Built a megabase called Abongagazaza *(With optional link to megabase)*
+- Won a pvp tournament
 
 ## Bases
 - Abongza 1 (link to base wiki page if possible)

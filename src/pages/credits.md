@@ -5,7 +5,8 @@ title: 6b6t wiki Credits
 # Credits
 See all contributors on the [GitHub](https://github.com/therealrealguy/6b6twiki/) repository
 
-* **North**: Idea man
+* **North**: 
+  * Idea man
   * Discord: `nerdsinc`
 * **Advik**:
   * Idea man 2

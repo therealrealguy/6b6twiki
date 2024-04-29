@@ -2,8 +2,8 @@
 sidebar_label: 'SillyCat'
 title: 'SillyCat'
 tags:
-  - Getting started
-  - Contributing
+  - Player
+  - 6b6t
 ---
 
 ## Names

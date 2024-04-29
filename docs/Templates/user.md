@@ -13,7 +13,6 @@ This is a template that shows how you should write a page about an user
 
 ## Names
 * Formal name: user01XDlol
-* Informal name: usee
 * Mainly goes by: user
 
 ## Contacts:

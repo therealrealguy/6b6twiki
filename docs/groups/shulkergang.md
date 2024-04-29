@@ -52,6 +52,8 @@ tags:
 - femboy (higher member)
 - wiesiupvp (member)
 - c1yd3i (member)
+- TheJTnoob (member)
+- TheTroll2001 (THE chatter)
 
 ## Logo / Banner:
 ![logo](../../static/img/groups/shulkergang/logo.png)

@@ -36,3 +36,5 @@ Related links:
 * [6b6t's official Facebook](https://www.facebook.com/6b6tAnarchy)
 * [6b6t's official Pinterest](https://www.pinterest.com/6b6tanarchy)
 * [6b6t's official Blog](https://www.6b6t.org/en/blog)
+
+![banner](https://www.6b6t.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F6b12.4279e893.jpg&w=1920&q=75)

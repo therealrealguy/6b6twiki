@@ -7,7 +7,7 @@ tags:
   - Contributing
 ---
 
-This is a template that shows how you should write a page about an user
+This is a template that shows how you should write a page about a group
 **NOTES:**
 * Abongza is not a real group
 
@@ -16,7 +16,7 @@ This is a template that shows how you should write a page about an user
 * abbreviation: A.B.Z
 
 ## Discord:
-* `user01xdlol.`
+* `dsc.gg/oogabooga`
 
 ## Founding information
 * Founding date: 15 November 2023
@@ -34,6 +34,7 @@ This is a template that shows how you should write a page about an user
 
 ## Logo / Banner:
 ![logo](../../static/img/groups/Abongza%20(example)/logo.png)
+
 ![banner](../../static/img/groups/Abongza%20(example)/banner.png)
 
 ## Noteable Members

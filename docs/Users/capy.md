@@ -7,8 +7,8 @@ tags:
 ---
 
 ## Names
-Formal name: CapyKing10
-Mainly goes by: Capy
+* Formal name: CapyKing10
+* Mainly goes by: Capy
 
 ## Contacts
 * Discord: capyking10.

@@ -22,7 +22,7 @@ tags:
 * Leader of the hive, a private building group that made [this](https://youtu.be/sFIcEpTGAiU) base, coords were leaked so we self griefed. We also made a halloween base!
 * And alot of other stuff, cool person, local drugs dealer, ex-leader of the 555, cool person (again), made alot of youtube videos about 6b (mostly griefing)
 * Contributed to the largest mapart in the server!
-* discovered a [flight exploit](https://www.youtube.com/watch?v=hGC1wILneAA&t=9s) that goes 400km/h!
+* Discovered a [flight exploit](https://www.youtube.com/watch?v=hGC1wILneAA&t=9s) that goes 400km/h!
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=c1880e115a13cc81&model=classic&theta=30&phi=21&time=90&width=100&height=200)

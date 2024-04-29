@@ -6,17 +6,17 @@ tags:
   - 6b6t
 ---
 
-# _aleseeq__
+# `_aleseeq__`
 
 ## Names
-* Formal name: _aleseeq__
+* Formal name: `_aleseeq__`
 * Mainly goes by: North
 
 ## Contacts
 * Discord: `nerdsinc.`
 
 ## Minecraft Account list
-* [_aleseeq__](https://nl.namemc.com/profile/_aleseeq__.1)
+* [`_aleseeq__`](https://nl.namemc.com/profile/_aleseeq__.1)
 * [openanarchy](https://nl.namemc.com/profile/openanarchy.4)
 * [lxvy](https://nl.namemc.com/profile/lxvy.4)
 
@@ -27,7 +27,7 @@ tags:
 * Insiding tons of clans and nuking them
 
 ## Skin
-![Skin](https://s.namemc.com/3d/skin/body.png?id=8ba3245f351fe11b&model=slim&theta=30&phi=21&time=90&width=600&height=800)
+![Skin](https://s.namemc.com/3d/skin/body.png?id=8ba3245f351fe11b&model=slim&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
 * Mapart Empire

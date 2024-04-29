@@ -16,4 +16,4 @@ tags:
 * [NameMC](https://namemc.com/server/alacity.net)
 * IP: `alacity.net`
 
-Owner: Daynios
+* Owner: Daynios

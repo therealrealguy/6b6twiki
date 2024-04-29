@@ -7,6 +7,6 @@ https://discord.gg/WvQFeCmNDB
 
 # Todo
 * [] Add entries and gather information about
-  * [] History
+  * [X] History
   * [] Clans
 * [] Add a search feature

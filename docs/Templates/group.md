@@ -33,8 +33,6 @@ This is a template that shows how you should write a page about an user
 - Abongagazaza
 
 ## Logo / Banner:
-![Banner](../../static/groups/Abongza%20(example)/banner)
-![Logo](../../static/groups/Abongza%20(example)/logo)
 
 ## Noteable Members
 - user01XDlol (founder)

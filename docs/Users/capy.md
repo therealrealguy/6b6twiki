@@ -1,17 +1,19 @@
 ---
-sidebar_label: 'Capy'
-title: 'Capy'
+sidebar_label: 'CapyKing10'
+title: 'CapyKing10'
 tags:
   - Player
   - 6b6t
 ---
+
+# CapyKing10
 
 ## Names
 * Formal name: CapyKing10
 * Mainly goes by: Capy
 
 ## Contacts
-* Discord: capyking10.
+* Discord: `capyking10.`
 * [YouTube](https://www.youtube.com/@CapyKing10_)
 * [NameMC](https://namemc.com/profile/CapyKing10.1)
 

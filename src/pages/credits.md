@@ -17,6 +17,6 @@ See all contributors on the [GitHub](https://github.com/therealrealguy/6b6twiki/
   * Discord: `beveledcube`
   * [GitHub](https://github.com/CubeBeveled)
 * **Capy**
-  * Discord: `capyking10`
   * Idea man + Wiki writer
+  * Discord: `capyking10`
   * [GitHub](https://github.com/CapyKing10)

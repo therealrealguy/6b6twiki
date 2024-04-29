@@ -10,7 +10,7 @@ tags:
 Formal name: CapyKing10
 Mainly goes by: Capy
 
-## Contacts:
+## Contacts
 * Discord: capyking10.
 * [YouTube](https://www.youtube.com/@CapyKing10_)
 * [NameMC](https://namemc.com/profile/CapyKing10.1)
@@ -23,7 +23,7 @@ Mainly goes by: Capy
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=c1880e115a13cc81&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
-## Clans:
+## Clans
 * Shulkergang
 * Hive
 * 555

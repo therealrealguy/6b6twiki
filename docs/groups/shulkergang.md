@@ -11,7 +11,7 @@ tags:
 * Full name: Shulkergang
 * abbreviation: SG
 
-## Discord:
+## Discord
 * https://discord.gg/eATbWpG2RA
 
 ## Founding information
@@ -20,6 +20,8 @@ tags:
   * 28st
   * kokos_odpadnem
   * schmiddie
+* Founding Story:
+> 28st met Kokos in a server made by Laggang, Kokos teached 28st how to dupe , then kokos handed him kits and 28st joined his clan, then kokos and 28st talked alot, and somehow 28st asked kokos for his account password, he succesfully got him and got kokos trust. Then Kokos made Schmiddie meet 28st, then 28st offered to make Shulkergang because it was famous to wear Shulkers with the command /head.
 
 ## Acomplishments
 - Massive Maparts
@@ -45,7 +47,7 @@ tags:
 - lil__perp (leader)
 - xiNxghtMar3ix (Leader)
 - Price (Co Leader)
-- Backup_Inventory(Mod)
+- Backup_Inventory (Mod)
 - Rozen (Mod)
 - audsis (higher member)
 - vined (higher member)
@@ -55,7 +57,7 @@ tags:
 - TheJTnoob (member)
 - TheTroll2001 (THE chatter)
 
-## Logo / Banner:
+## Logo / Banner
 ![logo](../../static/img/groups/shulkergang/logo.png)
 
 ![logo2](../../static/img/groups/shulkergang/logo2.png)

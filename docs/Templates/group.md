@@ -23,6 +23,8 @@ This is a template that shows how you should write a page about a group
 * Founded by: 
   * user01XDlol
   * CapyKing10
+* Founding Story: (optional)
+>
 
 ## Acomplishments
 - Built a megabase called Abongagazaza *(With optional link to megabase)*
@@ -32,12 +34,12 @@ This is a template that shows how you should write a page about a group
 - Abongza 1 (link to base wiki page if possible)
 - Abongagazaza
 
-## Logo / Banner:
-![logo](../../static/img/groups/Abongza%20(example)/logo.png)
-
-![banner](../../static/img/groups/Abongza%20(example)/banner.png)
-
 ## Noteable Members
 - user01XDlol (founder)
 - CapyKing10 (founder)
 - Fortniteballsowner96 (high member)
+
+## Logo / Banner:
+![logo](../../static/img/groups/Abongza%20(example)/logo.png)
+
+![banner](../../static/img/groups/Abongza%20(example)/banner.png)

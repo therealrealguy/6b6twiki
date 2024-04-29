@@ -17,6 +17,9 @@ tags:
 * [YouTube](https://www.youtube.com/@CapyKing10_)
 * [NameMC](https://namemc.com/profile/CapyKing10.1)
 
+## Joindate
+* 6b6t: 25 march 2023
+
 ## Acomplishments
 * Got invited to shulkergang and became a highranked member pretty quickly, later on became a leader;
 * Leader of the hive, a private building group that made [this](https://youtu.be/sFIcEpTGAiU) base, coords were leaked so we self griefed. We also made a halloween base!

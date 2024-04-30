@@ -21,7 +21,7 @@ tags:
   * kokos_odpadnem
   * schmiddie
 * Founding Story:
-> 28st met Kokos in a server made by Laggang, Kokos teached 28st how to dupe , then kokos handed him kits and 28st joined his clan, then kokos and 28st talked alot, and somehow 28st asked kokos for his account password, he succesfully got him and got kokos trust. Then Kokos made Schmiddie meet 28st, then 28st offered to make Shulkergang because it was famous to wear Shulkers with the command /head.
+> 28st met Kokos in a server made by Laggang, Kokos teached 28st how to dupe , kokos handed him kits and 28st joined his clan, kokos and 28st talked alot and somehow 28st asked kokos for his account password and kokos gave it and they trusted eachother, Then Kokos made Schmiddie meet 28st, 28st offered to make Shulkergang because it was famous to wear Shulkers with the command /head.
 
 ## Acomplishments
 - Massive Maparts

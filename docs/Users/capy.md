@@ -22,7 +22,7 @@ tags:
 
 ## Acomplishments
 * Got invited to shulkergang and became a highranked member pretty quickly, later on became a leader;
-* Leader of the hive, a private building group that made [this](https://youtu.be/sFIcEpTGAiU) base, coords were leaked so we self griefed. We also made a halloween base!
+* Leader of [the hive](../groups/hive.md)!
 * And alot of other stuff, cool person, local drugs dealer, ex-leader of the 555, cool person (again), made alot of youtube videos about 6b (mostly griefing)
 * Contributed to the largest mapart in the server!
 * Discovered a [flight exploit](https://www.youtube.com/watch?v=hGC1wILneAA&t=9s) that goes 400km/h!

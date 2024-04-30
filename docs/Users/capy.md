@@ -33,6 +33,7 @@ tags:
 ## Clans
 * Shulkergang
 * Hive
+* Pyromaniac Fireflies
 * 555
 * Exodus
 * Cumgang

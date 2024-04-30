@@ -77,7 +77,7 @@ tags:
 > Some members started moving to different servers like [alacity](../MC%20Servers/alacity.md) and some joined donfuer 6b6t.
 
 ## Resurrection
-> 2 months after [bd71legend](../Users/bd71.md) and the imperials griefed the main bases, [CapyKing10](../Users/capy.md) and [xiNxghtMar3ix](../Users/nxght.md) which are both leaders in Shulkergang on 6b6t and ToyotaT100 on [8b8t](../MC%20Servers/8b8t.md) contacted the members and other leaders of the two groups about making a new group and set up a groupchat. In that groupchat they decided that they were gonna take element from each group and implement them into the new group.
+> 2 months after [bd71legend](../Users/bd71.md) and the imperials griefed the main bases, [CapyKing10](../Users/capy.md) and [xiNxghtMar3ix](../Users/nxght.md) which are both leaders in Shulkergang on 6b6t and ToyotaT100 on [8b8t](../MC%20Servers/8b8t.md) contacted the members and other leaders of the two groups about making a new group on [alacity](../MC%20Servers/alacity.md) and set up a groupchat. In that groupchat they decided that they were gonna take element from each group and implement them into the new group.
 
 > SG X TY was the first name of the group, the names were seperated (SG standing for shulkergang and TY for toyota). After aodrael suddenly deleted the discord a new one was made by [xiNxghtMar3ix](../Users/nxght.md) which was called TSG (Toyota Shulkergang). From then on the name stood and TSG went on to became one of the most know groups on [alacity](../MC%20Servers/alacity.md). 
 

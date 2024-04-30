@@ -31,8 +31,8 @@ tags:
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=c1880e115a13cc81&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
-* Shulkergang
-* Hive
+* [Shulkergang](../groups/shulkergang.md)
+* [Hive](../groups/hive.md)
 * Pyromaniac Fireflies
 * 555
 * Exodus

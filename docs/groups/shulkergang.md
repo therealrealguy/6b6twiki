@@ -45,6 +45,8 @@ tags:
 - [CapyKing10](../Users/capy.md) (Leader)
 - myniany (Leader)
 - lil__perp (leader)
+- ByroBuff (leader)
+- aodrael (leader)
 - [scarthebest1943](../Users/scar.md) (leader)
 - [xiNxghtMar3ix](../Users/nxght.md) (Leader)
 - Price (Co Leader)
@@ -53,12 +55,16 @@ tags:
 - audsis (higher member)
 - vined (higher member)
 - femboy (higher member)
+- jajo341 (member)
 - wiesiupvp (member)
 - c1yd3i (member)
 - TheJTnoob (member)
 - TheTroll2001 (THE chatter)
 
-## Downfall
+## Donfall of 1.12.2 Shulkergang
+> The Downfall of 1.12.2 Shulkergang started when Shulkergang 2 was constructed. Thats when 28st decided to make a vote to get a new leader in Shulkergang. the options were Price and lil__perp. He also mentioned that the loser would be co-leader. liL__perp won the vote, making price the new co-leader. For an unknown reason it turned out lil perp and schmiddie made an agreement to kicking kokos_udpadnem for a unknown reason. When they asked 28st to kick kokos from the group, he wanted to find a peaceful way to fix this. Then lil__perp, audsis, wiesiupvp and vined made a group, then they nuked shulkergang which was 900 members at the time, resulting it in dying.
+
+## Downfall of 1.19 Shulkergang
 > 10/20/23: 28st kicks [bd71legend](../Users/bd71.md) one of the leaders of sg blaming him for the inactivity of the clan and appoints new leaders [scar](../Users/scar.md) and aodrael. 
 > This lead a conflict between bd71legend and sg which was started from mid October 2023 to mid January of 2024. 
 > During this period shulkergang achieved peak activity in months and constructed two bases. 

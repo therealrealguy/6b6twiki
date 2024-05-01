@@ -38,7 +38,10 @@ tags:
 ## Clans
 - 555 clan
 - donfuer 6b6t
-- hentai empire (period of inactivity)
+- mapart empire (period of inactivity)
+- cumgang
+- the legion
+- (many other clans too small to be noteable)
 
 ### Previous clans
 - Cheese clan (*died*)

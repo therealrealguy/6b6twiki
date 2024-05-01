@@ -43,7 +43,7 @@ tags:
 - Lerpietong (founder)
 - Byrobuff (founder)
 - [CapyKing10](../Users/capy.md) (leader)
-- Mynainy (leader)
+- [Mynainy](../Users/myniany.md) (leader)
 - lex1on (Epic Builder)
 - vined_ (builder)
 - fanlimgames (builder)

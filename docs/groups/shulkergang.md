@@ -43,7 +43,7 @@ tags:
 - kokos (Founder)
 - schmiddie (Founder)
 - [CapyKing10](../Users/capy.md) (Leader)
-- myniany (Leader)
+- [myniany](../Users/myniany.md) (Leader)
 - lil__perp (leader)
 - ByroBuff (leader)
 - aodrael (leader)

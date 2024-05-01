@@ -9,6 +9,17 @@ tags:
 ## Names
 * Username: `vined_`
 * Mainly goes by: `vined`
+* Alt accounts:
+  - Norway
+  - vined_on_top
+  - vined_is_cool
+  - i_am_vined
+  - i_like_vined
+  - ViNeD
+  - Vxtotallyreal
+  - kazwqi
+  - azklo
+  - \_IKEAAv1__ up to \_IKEAAv9__
 
 ## Contacts:
 * Discord: `vined_`

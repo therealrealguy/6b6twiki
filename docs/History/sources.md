@@ -44,28 +44,28 @@ I also think that qbasty reset the server/world jan 16, 2022, the day it started
 # Original text by firey and vined
 vined's discord: `vined_`<br/>firey's discord: `hi.im.firy.if.u.read.dis.u.cool`
 
-it all started when qb abandoned oa and said 6b would surpass 2b by miles
-it did get alot of players it kept a steady 100-150 playerbase for a while then theres this two cool guys called normal cat and cipher
-cat was a previous owner of 6b
-and cipher was an admin
-when the server got reworked both of them got backstabbed by qb by stripping them of their roles
-then they tried to expose this admin on 6b called hop for being a pedophile
-and pistonmaster stepped in and defended the so called pedophile
-so cipher called piston out also for defending a literal pedo
-both got banned and they made a server
-in discord
-to talk about gathering evidence to expose 6b cause at that time
-qb was talking to a guy
-and said he would give him money to get 6b botted
-but in the end qb never paid so the guy stopped botting and started to join cipher and cat
-also the downfall of 6b was also caused by retarded decisions
-also there was this one time 6b went below 0.1 tps and it got so unplayable
-chat started to get spammed like crazy
-they made it so you can pay for higher dupe chances
-and like that was really not cool so the community started to get mad cause its p2w
-but qb did eventually revert the changes
-after cipher and cat broke off 6b qb hired randos like ollie and nixter17
-he got later doxxed by thetroll2001  and left `6b6t` because he admin abused 
-didnt ollie leave 6b cause he wasnt being paid
-by qb and he got tired of his shit
-that and because also what happened with nixter
+it all started when qb abandoned oa and said 6b would surpass 2b by miles<br/>
+it did get alot of players it kept a steady 100-150 playerbase for a while then theres this two cool guys called normal cat and cipher<br/>
+cat was a previous owner of 6b<br/>
+and cipher was an admin<br/>
+when the server got reworked both of them got backstabbed by qb by stripping them of their roles<br/>
+then they tried to expose this admin on 6b called hop for being a pedophile<br/>
+and pistonmaster stepped in and defended the so called pedophile<br/>
+so cipher called piston out also for defending a literal pedo<br/>
+both got banned and they made a server<br/>
+in discord<br/>
+to talk about gathering evidence to expose 6b cause at that time<br/>
+qb was talking to a guy<br/>
+and said he would give him money to get 6b botted<br/>
+but in the end qb never paid so the guy stopped botting and started to join cipher and cat<br/>
+also the downfall of 6b was also caused by retarded decisions<br/>
+also there was this one time 6b went below 0.1 tps and it got so unplayable<br/>
+chat started to get spammed like crazy<br/>
+they made it so you can pay for higher dupe chances<br/>
+and like that was really not cool so the community started to get mad cause its p2w<br/>
+but qb did eventually revert the changes<br/>
+after cipher and cat broke off 6b qb hired randos like ollie and nixter17<br/>
+he got later doxxed by thetroll2001  and left `6b6t` because he admin abused <br/>
+didnt ollie leave 6b cause he wasnt being paid<br/>
+by qb and he got tired of his shit<br/>
+that and because also what happened with nixter<br/>

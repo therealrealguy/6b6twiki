@@ -13,12 +13,12 @@ tags:
 
 # Original (Discord) messages on 6b6t wiki's server
 # DSNS's version
-According to the website, `6b6t` was created in 2022 but according to DSNS it was created atleast before July 2019 time during wich Leeewith3Es was the owner and DSNS joined, proof is [this](https://www.youtube.com/watch?v=eaW-yZpxiqk) youtube AD released July 18th 2019. The server was kinda active, nowhere near the player count it is today.
-There was a bunch of admin abuse, `thetroll2001` had OP perms
-The `6b6t` domain was actually taken from leee without his permission.
-He explained it in [this video](https://www.youtube.com/watch?v=LQfO_RxcHxI), leee went on to create `6b6t.co`.
-DSNS quit the server for a while so someone needs to fill in the info after leee sold it.
-And it seems to this day he doesn't like qbasty or `6b6t`.
+According to the website, `6b6t` was created in 2022 but according to DSNS it was created atleast before July 2019, the time when Leeewith3Es was the owner and DSNS joined, proof is [this](https://www.youtube.com/watch?v=eaW-yZpxiqk) YouTube ad released on July 18th 2019. The server was kinda active, nowhere near the player count it is today.
+There was a bunch of admin abuse, `TheTroll2001` had OP perms.
+The `6b6t` domain was actually taken from Leee without his permission.
+He explained it in [this video](https://www.youtube.com/watch?v=LQfO_RxcHxI), Leee went on to create `6b6t.co`.
+DSNS quit the server for a while so someone needs to fill in the info after Leee sold it.
+It seems to this day he doesn't like qbasty or `6b6t`.
 I also think that qbasty reset the server/world jan 16, 2022, the day it started (according to the website)
 
 # Original text by DSNS (Discord: dsns)
@@ -27,9 +27,9 @@ I also think that qbasty reset the server/world jan 16, 2022, the day it started
 
 - i believe Leeewith3E was the owner during 2019, when i first joined the server
 - he released an ad for `6b6t` july 18 2019 on his channel https://www.youtube.com/watch?v=eaW-yZpxiqk
-![leee 6b6t AD vid](https://6b6t-wiki.vercel.app/vids/Leee/2b2t%20the%20best%202b2t%20clone%206b6t.org%20-%20Leee.mp4)
+![Leee 6b6t ad](https://6b6t-wiki.vercel.app/vids/Leee/2b2t%20the%20best%202b2t%20clone%206b6t.org%20-%20Leee.mp4)
 - the server was kinda active, nowhere near the player count it is today
-![leee 6b6t.co is the real 6b6t and the truth about bleepo vid](https://6b6t-wiki.vercel.app/img/Screenshots/leee%20vid.png)
+![Leee 6b6t.co is the real 6b6t and the truth about bleepo vid](https://6b6t-wiki.vercel.app/img/Screenshots/leee%20vid.png)
 - there was a bunch of admin abuse, thetroll2001 had OP perms
 - i think the `6b6t` domain was actually taken from leee without his permission 
 - he explained it in this video, leee went on to create `6b6t.co` https://www.youtube.com/watch?v=LQfO_RxcHxI
@@ -43,7 +43,7 @@ I also think that qbasty reset the server/world jan 16, 2022, the day it started
 - <ins>North</ins>: I think I still have a world download of spawn from 2020 6b
 
 # Original text by firey and vined
-vined's discord: `vined_`
+vined's discord: `vined_`\n
 firey's discord: `hi.im.firy.if.u.read.dis.u.cool`
 
 it all started when qb abandoned oa and said 6b would surpass 2b by miles

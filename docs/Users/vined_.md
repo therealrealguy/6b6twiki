@@ -51,3 +51,4 @@ tags:
 - LagGang
 - IKEA
 - Shulker Gang
+- The Hive

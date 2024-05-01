@@ -26,4 +26,4 @@ tags:
 
 ## Clans
 * cumgang
-* mapart empire
+* Mapart Empire (hentai empire)

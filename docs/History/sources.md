@@ -43,8 +43,7 @@ I also think that qbasty reset the server/world jan 16, 2022, the day it started
 - <ins>North</ins>: I think I still have a world download of spawn from 2020 6b
 
 # Original text by firey and vined
-vined's discord: `vined_`<br>
-firey's discord: `hi.im.firy.if.u.read.dis.u.cool`
+vined's discord: `vined_`<br/>firey's discord: `hi.im.firy.if.u.read.dis.u.cool`
 
 it all started when qb abandoned oa and said 6b would surpass 2b by miles
 it did get alot of players it kept a steady 100-150 playerbase for a while then theres this two cool guys called normal cat and cipher

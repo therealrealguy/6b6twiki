@@ -13,11 +13,10 @@ tags:
 
 # Original (Discord) messages on 6b6t wiki's server
 # DSNS's version
-According to the website, `6b6t` was created in 2022 but according to DSNS it was created atleast before July 2019, the time when Leeewith3Es was the owner and DSNS joined, proof is [this](https://www.youtube.com/watch?v=eaW-yZpxiqk) YouTube ad released on July 18th 2019. The server was kinda active, nowhere near the player count it is today.
-There was a bunch of admin abuse, `TheTroll2001` had OP perms.
-The `6b6t` domain was actually taken from Leee without his permission.
-He explained it in [this video](https://www.youtube.com/watch?v=LQfO_RxcHxI), Leee went on to create `6b6t.co`.
-DSNS quit the server for a while so someone needs to fill in the info after Leee sold it.
+According to the website, `6b6t` was created in 2022 but according to DSNS it was created atleast before July 2019, the time when Leeewith3Es was the owner and DSNS joined, proof is [this](https://www.youtube.com/watch?v=eaW-yZpxiqk) YouTube ad released on July 18th 2019. The server was kinda active, nowhere near the player count it is today.<br/>There was a bunch of admin abuse, the user `TheTroll2001` had OP perms.<br/>
+The `6b6t` domain was actually taken from Leee without his permission.<br/>
+He explained it in [this video](https://www.youtube.com/watch?v=LQfO_RxcHxI), Leee went on to create `6b6t.co`.<br/>
+DSNS quit the server for a while so someone needs to fill in the info after Leee sold it.<br/>
 It seems to this day he doesn't like qbasty or `6b6t`.
 I also think that qbasty reset the server/world jan 16, 2022, the day it started (according to the website)
 

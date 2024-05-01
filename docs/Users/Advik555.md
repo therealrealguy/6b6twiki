@@ -9,7 +9,7 @@ tags:
 # Advik555
 
 ## Names
-* Full name: advik555
+* Full username: advik555
 * Mainly goes by: advik
 
 ## Contacts:
@@ -24,16 +24,17 @@ tags:
 * youknowmyalt 
 
 ## Acomplishments
-- Built a minor highway from spawn (goes north west noticeable from the cube project)
-- Built the obsidian pyramid and cube 
--  ##### trivial builds at spawn
+- Built a minor highway from spawn that goes north west
+- Built the pyramid and the cube (obsidian spawn builds)
 
-- Owns the largest active clan on 6b6t and the oldest surviving one
+-  ##### many other trivial builds at spawn
+
+- Owns 555 the largest active clan on 6b6t and the oldest surviving one
 - Manually delivered kits to over 400 people
 
-- Flown 31+ million blocks the server
-- Discovered /name exploit (byrobuff independently discovered it first but advik found it himself as well)
-- Found a modified version of the item frame dupe (normal frame dupe didnt work) that worked only for a few weeks
+- Flown 46+ million blocks the server
+- Discovered /name exploit (not the first to find it but did find it independently)
+- Found a modified version of the item frame dupe at the time when normal frame dupe didnt work
 
 ## Clans
 - 555 clan

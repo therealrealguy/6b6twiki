@@ -21,7 +21,10 @@ tags:
 * advikbot
 * advik555
 * elf_bitchard
-* youknowmyalt 
+* youknowmyalt
+* Adick555
+* karnage4556
+* advikbot
 
 ## Acomplishments
 - Built a minor highway from spawn that goes north west

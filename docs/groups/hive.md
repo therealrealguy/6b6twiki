@@ -44,6 +44,7 @@ tags:
 - [CapyKing10](../Users/capy.md) (leader)
 - [Mynainy](../Users/myniany.md) (leader)
 - lex1on (Epic Builder)
+- hokindo9000 (builder)
 - vined_ (builder)
 - fanlimgames (builder)
 - Fcxkz (builder)

@@ -41,6 +41,6 @@ tags:
 - ~~Dongfang Clan~~ (*Only lasted in 7b7t*)
 
 ## Skin
-[Random eboy skin](https://tlauncher.org/skin.php?username=21253015&mode=1&update=0&)
+![Random eboy skin](https://tlauncher.org/skin.php?username=21253015&mode=1&update=0&)
 
 ![Skin](https://tlauncher.org/skin.php?username=21253015&mode=2&update=0&)

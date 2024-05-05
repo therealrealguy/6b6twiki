@@ -28,18 +28,19 @@ tags:
 ## Accomplishments:
 - Extended -Z highway to _800k_
 - Personal base survived since **March 2022**
+- [Graphed](https://www.desmos.com/calculator/ckmbou4lng) Lava Dupe Outputs
 - Owned 2 free kit shops
 - Created macro for frame dupe
 - 1.44k subs on YouTube.
 - Manually delivered kits to around 100 people
 
 ## Clans
-- 555 clan
+- 555
 
 ### Previous clans
-- Dongfang Clan (*Only lasted in 7b7t*)
+- ~~Dongfang Clan~~ (*Only lasted in 7b7t*)
 
 ## Skin
-![Random eboy skin](https://tlauncher.org/skin.php?username=21253015&mode=1&update=0&)
+[Random eboy skin](https://tlauncher.org/skin.php?username=21253015&mode=1&update=0&)
 
-![Skin](https://tlauncher.org/skin.php?username=21253015&mode=1&update=0&)
+![Skin](https://tlauncher.org/skin.php?username=21253015&mode=2&update=0&)

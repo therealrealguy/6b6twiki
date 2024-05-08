@@ -21,7 +21,7 @@ tags:
 * 6b6t: 25 march 2023
 
 ## Acomplishments
-* Got invited to shulkergang and became a highranked member pretty quickly, later on became a leader;
+* Got invited to [shulkergang](../Groups/shulkergang.md) and became a highranked member pretty quickly, later on became a leader;
 * Leader of [the hive](../groups/hive.md)!
 * And alot of other stuff, cool person, local drugs dealer, ex-leader of the 555, cool person (again), made alot of youtube videos about 6b (mostly griefing)
 * Contributed to the largest mapart in the server!

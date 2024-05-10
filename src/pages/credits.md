@@ -5,15 +5,16 @@ title: 6b6t wiki Credits
 # Credits
 See all contributors on the [GitHub](https://github.com/therealrealguy/6b6twiki/) repository
 
-* **[North](../../docs/Users/North.md)**:
+* **[North](https://6b6t-wiki.vercel.app/Users/North)**:
   * Idea man
   * Discord: `nerdsinc`
-* **[Advik](../../docs/Users/advik555.md)**:
+* **[Advik](https://6b6t-wiki.vercel.app/Users/Advik555)**:
   * Idea man
   * Discord: `_advik555`
   * Github: https://github.com/therealrealguy
-* **[Capy](../../docs/Users/capy.md)**:
-  * Idea man + Wiki Writer
+* **[Capy](https://6b6t-wiki.vercel.app/Users/capy)**:
+  * Idea man
+  * Wiki Writer
   * Discord: `capyking10`
   * Github: https://github.com/CapyKing10
 * **Beveled Cube**:

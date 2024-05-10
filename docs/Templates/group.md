@@ -40,6 +40,6 @@ This is a template that shows how you should write a page about a group
 - Fortniteballsowner96 (high member)
 
 ## Logo / Banner:
-![logo](../../static/img/groups/Abongza%20(example)/logo.png)
+![logo](../../static/img/groups/Abongza/logo.png)
 
-![banner](../../static/img/groups/Abongza%20(example)/banner.png)
+![banner](../../static/img/groups/Abongza/banner.png)

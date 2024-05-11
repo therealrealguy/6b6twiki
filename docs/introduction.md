@@ -13,6 +13,16 @@ Welcome to the 6b6t Wiki, the go to encyclopedia for information regarding 6b6t.
 
 ## FAQ
 ---
+
+- ***Q: I dont know how to code!!***
+
+- **A: You dont need to know anything about coding to write a markdown article.**
+
+    It works just like discord you can use ```#``` to make text big or ```##``` for slightly smaller and so on. Like discord you can use ```-``` for bullet points 
+
+    if you absolutely refuse to use this methoad you can write an article and send it to us to make it all fancy
+
+
 - Q: What is this about ?
 - A: This website will contain info about bases groups events builds and much much more about the server and its history
 

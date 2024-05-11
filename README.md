@@ -6,8 +6,8 @@ join our discord:
 https://discord.gg/WvQFeCmNDB
 
 # Todo
-* [] Add entries and gather information about
+* [ ] Add entries and gather information about
   * [x] History
-  * [] Groups
-  * [] Bases
-* [] Add a search feature
+  * [ ] Groups
+  * [ ] Bases
+* [ ] Add a search feature

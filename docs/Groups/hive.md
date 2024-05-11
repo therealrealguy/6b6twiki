@@ -38,7 +38,7 @@ tags:
 - Hive 3 (abandoned)
 - Kung Fu Chong Kyoto Hive
 
-## Noteable Members
+## Notable Members
 - Lerpietong (founder)
 - Byrobuff (founder)
 - [CapyKing10](../Users/capy.md) (leader)

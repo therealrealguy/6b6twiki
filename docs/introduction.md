@@ -14,23 +14,17 @@ Welcome to the 6b6t Wiki, the go to encyclopedia for information regarding 6b6t.
 ## FAQ
 ---
 
-- ***Q: I dont know how to code!!***
+* Q: I dont know how to code
+* A: You dont need to know anything about coding to write a markdown page. Markdown is made to be easy. You can watch [this](https://youtu.be/_PPWWRV6gbA?t=25) crash course on markdown to know how to use it. If you absolutely refuse to learn markdown method you can write an article and send it to us to make it look fancy.
 
-- **A: You dont need to know anything about coding to write a markdown article.**
+* Q: What is this about ?
+* A: This website will contain info about bases groups events builds and much much more about the server and its history
 
-    It works just like discord you can use ```#``` to make text big or ```##``` for slightly smaller and so on. Like discord you can use ```-``` for bullet points 
+* Q: Is the 6b6t wiki biased ?
+* A: The 6b6t wiki is an open source project to which anyone can contribute so no, the wiki isn't biased
 
-    if you absolutely refuse to use this methoad you can write an article and send it to us to make it all fancy
-
-
-- Q: What is this about ?
-- A: This website will contain info about bases groups events builds and much much more about the server and its history
-
-- Q: Is the 6b6t wiki biased ?
-- A: The 6b6t wiki is an open source project to which anyone can contribute so no, the wiki isn't biased
-
-- Q: How can i contribute to the 6b6t wiki ?
-- A: You can clone the GitHub repository on your device, modify it then open a pull request or PR wich will be accepted if approved by one of the owners
+* Q: How can i contribute to the 6b6t wiki ?
+* A: You can clone the GitHub repository on your device, modify it then open a pull request or PR wich will be accepted if approved by one of the owners
 
 ## About 6b6t
 ---

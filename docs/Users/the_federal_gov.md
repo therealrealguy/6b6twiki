@@ -10,7 +10,9 @@ tags:
 
 ## Names
 * Formal name: the_federal_gov
-* Mainly goes by: fed
+* Mainly goes by:
+  * fed
+  * gov
 
 ## Contacts
 * Discord: `the_federal_gov`

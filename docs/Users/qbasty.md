@@ -12,7 +12,6 @@ tags:
 ### Names
 * Full name: qbasty
 * Informal names:
-  * qbusty
   * qb
 
 Contacts:

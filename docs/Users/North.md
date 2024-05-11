@@ -10,7 +10,7 @@ tags:
 
 ## Names
 * Formal name: `_aleseeq__`
-* Mainly goes by: North
+* Mainly known as: North
 
 ## Contacts
 * Discord: `nerdsinc.`

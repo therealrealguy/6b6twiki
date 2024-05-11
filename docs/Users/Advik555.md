@@ -30,7 +30,7 @@ tags:
 - Built a minor highway from spawn that goes north west
 - Built the pyramid and the cube (obsidian spawn builds)
 
--  ##### many other trivial builds at spawn
+-  **many other trivial builds at spawn**
 
 - Owns 555 the largest active clan on 6b6t and the oldest surviving one
 - Manually delivered kits to over 400 people

@@ -6,6 +6,8 @@ tags:
   - 6b6t
 ---
 
+# vined
+
 ## Names
 * Username: `vined_`
 * Mainly goes by: `vined`

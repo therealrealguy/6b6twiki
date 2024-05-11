@@ -6,6 +6,8 @@ tags:
   - 6b6t
 ---
 
+# SillyCat
+
 ## Names
 * Formal name: sillyyccatt
 * Mainly goes by: silly

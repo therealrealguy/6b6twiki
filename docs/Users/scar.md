@@ -6,7 +6,7 @@ tags:
   - 6b6t
 ---
 
-# scarthebest1943
+# scarsthebest1943
 
 ## Names
 * Formal name: scarthebest1943

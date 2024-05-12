@@ -34,11 +34,11 @@ tags:
 - Most player kills (2,408,921 kills on account **vined_** as of 1/5/2024)
 - Most deaths (1,981,375 deaths on account **vined_on_top** as of 1/5/2024)
 - Discovered 6 dupes with **hokindo9000** called IKEA dupes:
-  - *Boat chest dupe*
+  - [*Boat chest dupe*](https://www.youtube.com/watch?v=ubI4pJ35Gvk)
   - *Chunk dupe*
 
 - Coded most of the boat chest dupe auto modules and is a developer of the [IKEA Addon](https://github.com/Nooniboi/Public-Ikea)
-- Owns the largest 6b6t bot (6b6t Stats, 67 servers and offline as of 1/5/2024) and created the largest database of player messages, joins, and leaves, using the in-game account **kazwqi**
+- Owns the largest 6b6t bot (6b6t Stats, 67 servers) and created the largest database of player messages, joins, and leaves, using the in-game account **kazwqi**
 - Discovered 2 bypasses to the teleport exploit discovered by **Poutselas**
 - Discovered a crash exploit in Folia with **hokindo9000**
 - Created and griefed the largest stash on 6b6t, **IKEA**, with over 50,000 double chests of items
@@ -52,5 +52,5 @@ tags:
 ## Clans
 - LagGang
 - IKEA
-- Shulker Gang
-- The Hive
+- [Shulker Gang](https://6b6t-wiki.vercel.app/Groups/shulkergang)
+- [The Hive](https://6b6t-wiki.vercel.app/Groups/hive)

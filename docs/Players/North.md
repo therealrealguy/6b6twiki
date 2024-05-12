@@ -6,7 +6,7 @@ tags:
   - 6b6t
 ---
 
-# `_aleseeq__`
+# _aleseeq__
 
 ## Names
 * Formal name: `_aleseeq__`

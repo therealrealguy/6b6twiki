@@ -19,4 +19,4 @@ Make a pull request to the GitHub repository, if it gets accepted it will get pu
 
 ## How can i view the changes i made ?
 You can run `npm install` (to make sure all packages are installed) and `npm run start` to run the website locally and go to the address in the console. The website automatically restarts when a file changes so you do not need to restart it manually.
-**NOTE:** The website you are looking at is only accesible to people connected to your network
+**NOTE:** The website you are looking at is only accessible to people connected to your network

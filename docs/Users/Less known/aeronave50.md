@@ -10,7 +10,7 @@ tags:
 
 ### Names
 * IRL name: Juan José 
-  * (Note: We asked if he wanted his IRL name, (which was included in the word document he sent) on here, he said [yes](../../static/img/Screenshots/proof.png))
+  * (Note: We asked if he wanted his IRL name, (which was included in the word document he sent) on here, he said [yes](../../../static/img/screenshots/proof.png))
 * Name: aeronave50
 * Mainly goes by: preffered
 

@@ -26,7 +26,7 @@ tags:
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=a6e0f7c0dc4c4bae&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
-* [Shulkergang](../groups/shulkergang.md)
-* [Hive](../groups/hive.md)
+* [Shulkergang](../Groups/shulkergang.md)
+* [Hive](../Groups/hive.md)
 * Pyromaniac Fireflies
 * DonFuer 6b6t

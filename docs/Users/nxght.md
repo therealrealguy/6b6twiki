@@ -32,7 +32,7 @@ tags:
 
 ## Clans
 * Laggang
-* [Shulkergang](../groups/shulkergang.md)
+* [Shulkergang](../Groups/shulkergang.md)
 * Exodus
 * 6b6t times
 * Cumgang

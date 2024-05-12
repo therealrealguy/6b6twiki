@@ -21,8 +21,8 @@ tags:
 * 6b6t: 25 march 2023
 
 ## Acomplishments
-* Got invited to [shulkergang](../groups/shulkergang.md) and became a highranked member pretty quickly, later on became a leader;
-* Leader of [the hive](../groups/hive.md)!
+* Got invited to [shulkergang](../Groups/shulkergang.md) and became a highranked member pretty quickly, later on became a leader;
+* Leader of [the hive](../Groups/hive.md)!
 * And alot of other stuff, cool person, local drugs dealer, ex-leader of the 555, cool person (again), made alot of youtube videos about 6b (mostly griefing)
 * Contributed to the largest mapart in the server!
 * Discovered a [flight exploit](https://www.youtube.com/watch?v=hGC1wILneAA&t=9s) that goes 400km/h!
@@ -31,8 +31,8 @@ tags:
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=c1880e115a13cc81&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
-* [Shulkergang](../groups/shulkergang.md)
-* [Hive](../groups/hive.md)
+* [Shulkergang](../Groups/shulkergang.md)
+* [Hive](../Groups/hive.md)
 * Pyromaniac Fireflies
 * 555
 * Exodus

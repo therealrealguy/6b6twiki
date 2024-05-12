@@ -34,6 +34,6 @@ tags:
 * Cumgang
 * 555
 * 6b6t times
-* [Shulkergang](../groups/shulkergang.md)
+* [Shulkergang](../Groups/shulkergang.md)
 * Imperials
 * Mapart Empire

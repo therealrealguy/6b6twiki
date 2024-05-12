@@ -52,5 +52,5 @@ tags:
 ## Clans
 - LagGang
 - IKEA
-- [Shulker Gang](https://6b6t-wiki.vercel.app/Groups/shulkergang)
-- [The Hive](https://6b6t-wiki.vercel.app/Groups/hive)
+- [Shulker Gang](../Groups/shulkergang)
+- [The Hive](../Groups/hive)

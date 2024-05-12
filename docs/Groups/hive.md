@@ -41,8 +41,8 @@ tags:
 ## Notable Members
 - Lerpietong (founder)
 - Byrobuff (founder)
-- [CapyKing10](../Users/capy.md) (leader)
-- [Mynainy](../Users/myniany.md) (leader)
+- [CapyKing10](../Players/capy.md) (leader)
+- [Mynainy](../Players/myniany.md) (leader)
 - lex1on (Epic Builder)
 - hokindo9000 (builder)
 - vined_ (builder)
@@ -51,7 +51,7 @@ tags:
 - Jajo341 (builder)
 - lil__perp (builder)
 - c1yd3i (builder)
-- [_aleseeq__](../Users/North.md) (builder)
+- [_aleseeq__](../Players/North.md) (builder)
 - Sharedlines (builder)
 
 ## Logo / Banner:

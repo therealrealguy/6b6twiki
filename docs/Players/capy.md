@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# CapyKing10
+# `CapyKing10`
 
-## Names
+## Identity
 * Formal name: CapyKing10
 * Mainly goes by: Capy
 

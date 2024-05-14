@@ -11,7 +11,7 @@ This is a template that shows how you should write a page about a group
 **NOTES:**
 * Abongza is not a real group
 
-## Names
+## Identity
 * Full name: Abongza
 * abbreviation: A.B.Z
 

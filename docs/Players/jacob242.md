@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# jacob242
+# `jacob242`
 
-## Names
+## Identity
 * Formal name: jacob242
 * Mainly goes by: jacob
 

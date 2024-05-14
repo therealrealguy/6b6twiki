@@ -11,7 +11,7 @@ This is a template that shows how you should write a page about an user
 **NOTES:**
 * user01xdlol is not a real person
 
-## Names
+## Identity
 * Formal name: user01XDlol
 * Mainly goes by: user
 

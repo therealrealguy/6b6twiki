@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# Myniany
+# `Myniany`
 
-## Names
+## Identity
 * Formal name: Myniany
 * Mainly goes by: Myniany
 

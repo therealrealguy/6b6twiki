@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# the_federal_gov
+# `the_federal_gov`
 
-## Names
+## Identity
 * Formal name: the_federal_gov
 * Mainly goes by:
   * fed

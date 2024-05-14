@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# _aleseeq__
+# `_aleseeq__`
 
-## Names
+## Identity
 * Formal name: `_aleseeq__`
 * Mainly known as: North
 

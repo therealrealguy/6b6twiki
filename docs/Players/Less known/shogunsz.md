@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# shogunzsid570
+# `shogunzsid570`
 
-## Names:
+## Identity:
 * Full username: shogunzsid570
 * Mainly goes by: shogun
 

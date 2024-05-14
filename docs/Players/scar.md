@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# scarsthebest1943
+# `scarsthebest1943`
 
-## Names
+## Identity
 * Formal name: scarthebest1943
 * Mainly goes by: Scar
 

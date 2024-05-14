@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# Advik555
+# `Advik555`
 
-## Names
+## Identity
 * Full username: advik555
 * Mainly goes by: advik
 

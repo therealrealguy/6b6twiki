@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# vined
+# `vined`
 
-## Names
+## Identity
 * Username: `vined_`
 * Mainly goes by: `vined`
 * Alt accounts:

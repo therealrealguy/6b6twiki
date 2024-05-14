@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# Laserspyy
+# `Laserspyy`
 
-## Names
+## Identity
 * Formal name: Laserspyy
 * Mainly goes by: Laser
 

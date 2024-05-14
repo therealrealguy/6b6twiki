@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# xiNxghtMar3ix
+# `xiNxghtMar3ix`
 
-## Names
+## Identity
 * Formal name: xiNxghtMar3ix
 * Mainly goes by: nxght
 

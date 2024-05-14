@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# SillyCat
+# `SillyCat`
 
-## Names
+## Identity
 * Formal name: sillyyccatt
 * Mainly goes by: silly
 

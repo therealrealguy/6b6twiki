@@ -7,9 +7,9 @@ tags:
   - 6b6t
 ---
 
-# qbasty
+# `qbasty`
 
-### Names
+## Identity
 * Full name: qbasty
 * Informal names:
   * qb

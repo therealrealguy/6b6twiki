@@ -6,7 +6,7 @@ tags:
   - 6b6t
 ---
 
-## Names
+## Identity
 * Full name: The Hive
 * abbreviation: none
 

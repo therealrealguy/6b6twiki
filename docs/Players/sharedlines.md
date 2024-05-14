@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# Sharedlines
+# `Sharedlines`
 
-### Names
+## Identity
 * Full name: Sharedlines
 * Mainly goes by: Sharedlines
 * Alts: spongeballs69, wirefact, hx3

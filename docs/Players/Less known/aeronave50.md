@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# aeronave50
+# `aeronave50`
 
-### Names
+## Identity
 * IRL name: Juan José 
   * (Note: We asked if he wanted his IRL name, (which was included in the word document he sent) on here, he said [yes](../../../static/img/screenshots/proof.png))
 * Name: aeronave50

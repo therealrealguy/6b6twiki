@@ -6,9 +6,9 @@ tags:
   - 6b6t
 ---
 
-# bd71legend
+# `bd71legend`
 
-## Names
+## Identity
 * Formal name: bd71legend
 * Mainly goes by: bd
 

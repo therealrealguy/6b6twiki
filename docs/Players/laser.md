@@ -15,6 +15,7 @@ tags:
 ## Contacts
 * Discord: `laserspyy`
 * [YouTube](https://www.youtube.com/@Laserspy)
+* [namemc](https://namemc.com/profile/Laserspyy.1)
 
 ## Joindate
 * 6b6t: December 2023
@@ -28,7 +29,7 @@ tags:
 * Made videos on 6b6t for a short while
 
 ## Skin
-![Skin](https://s.namemc.com/3d/skin/body.png?id=c7d97134bb339108e&model=classic&theta=30&phi=21&time=90&width=100&height=200)
+![Skin](https://s.namemc.com/3d/skin/body.png?id=706494a6ba8deb40&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
 * 555

@@ -32,9 +32,9 @@ tags:
 
 ## Acomplishments
 * Becoming one of the most well known griefers on 6b
-* Discovering an auth exploit with Sharedlines in mid 2023 when 6b6t first switched over to foila
+* Became one of the biggest 6b6t content creators 
+* Discovering an [auth](https://www.youtube.com/watch?v=rZHIQOuM0tM) exploit with [Sharedlines]() in mid 2023 when 6b6t first switched over to foila
 * Discovered a boat fly bypass (Currently not public)
-* One of the biggest 6b6t content creators
 * Insided a lot of clans/groups (most of the time ended up griefing their bases)
 
 ## Skin

@@ -21,9 +21,7 @@ tags:
 * 6b6t: 25 march 2023
 
 ## Acomplishments
-* Got invited to [shulkergang](../Groups/shulkergang.md) and became a highranked member pretty quickly, later on became a leader;
-* Leader of [the hive](../Groups/hive.md)!
-* And alot of other stuff, cool person, local drugs dealer, ex-leader of the 555, cool person (again), made alot of youtube videos about 6b (mostly griefing)
+* Made alot of 6b6t videos (Mostly griefing)
 * Contributed to the largest mapart in the server!
 * Discovered a [flight exploit](https://www.youtube.com/watch?v=hGC1wILneAA&t=9s) that goes 400km/h!
 

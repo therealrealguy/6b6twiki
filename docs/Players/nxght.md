@@ -20,10 +20,6 @@ tags:
 * 6b6t: 18 october 2022
 
 ## Acomplishments
-* Spawnfag, usually wandering around spawn and do mini-project with other players.
-* A talker on 6b6t discord, recognized by other known players.
-* Griefed Crypto's kit shop (accidently)
-* Became a LagGang member and later joined many groups.
 * Contributed to Imperials logo grief.
 * Contributed to CumGang's comminuty base projects.
 

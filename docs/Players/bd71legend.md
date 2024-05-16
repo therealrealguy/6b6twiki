@@ -19,8 +19,8 @@ tags:
 * 7b7t: mid 2021 (exact date unclear)
 
 ## Acomplishments
-* griefing most 6b clans
-* making the biggest map arts
+* One of the most known griefers
+* Contributing to the largest mapart on 6b6t
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=a6e0f7c0dc4c4bae&model=classic&theta=30&phi=21&time=90&width=100&height=200)

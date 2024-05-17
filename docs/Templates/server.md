@@ -22,7 +22,7 @@ You may modify according to your needs
   * `anarchy.6b6t.org`
   * `play.6b6t.org`
 
-Owner: [qbasty](../Users/qbasty.md)
+Owner: [qbasty](../Players/qbasty.md)
 
 ### Clans
 *Note: this is optional as there may be many clans*

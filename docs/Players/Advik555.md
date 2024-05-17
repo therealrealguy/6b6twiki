@@ -27,12 +27,7 @@ tags:
 * advikbot
 
 ## Acomplishments
-- Built a minor highway from spawn that goes north west
-- Built the pyramid and the cube (obsidian spawn builds)
-- Many trivial builds at spawn
-- Owns 555 the largest active clan on 6b6t and the oldest surviving one
-- Manually delivered kits to over 400 people
-
+- Founder of The [555](https://github.com/Verification-failed/6b6twiki/blob/main/docs/Groups/555.md)
 - Flown 46+ million blocks the server
 - Discovered /name exploit (not the first to find it but did find it independently)
 - Found a modified version of the item frame dupe at the time when normal frame dupe didnt work

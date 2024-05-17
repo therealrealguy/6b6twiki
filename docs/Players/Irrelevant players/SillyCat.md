@@ -18,7 +18,7 @@ tags:
 
 ## Acomplishments
 - Big spawn logo 
-  - ![silly logo](../../static/img/users/silly/letters.png)
+  - ![silly logo](https://github.com/Verification-failed/6b6twiki/blob/main/static/img/users/silly/letters.png)
 - Smaller logo of pfp south of the colonizadores logo
   - ![silly pfp](https://github.com/Verification-failed/6b6twiki/blob/main/static/img/users/silly/pfp.png)
 

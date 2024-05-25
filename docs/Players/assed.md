@@ -10,7 +10,7 @@ tags:
 * Name: `assed_`1
 * Alts: PussyControl, MisterExcalibur
 
-## Contacts:
+## Contacts
 * Discord: `assed_`
 
 ## Joindate

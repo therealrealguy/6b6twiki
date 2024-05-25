@@ -1,14 +1,10 @@
-sidebar_position: 1
+---
 sidebar_label: 'User template'
 title: 'assed_'
 tags:
-  - Getting started
-  - Contributing
+  - Player
+  - 6b6t
 ---
-
-This is a template that shows how you should write a page about an user
-**NOTES:**
-* assed_ is not a real person (yes i am)
 
 ## Identity
 * Formal name: assed_
@@ -17,15 +13,13 @@ This is a template that shows how you should write a page about an user
 
 ## Contacts:
 * Discord: `assed_`
-* [YouTube](https://www.youtube.com/) (not yet)
-* [NameMC](https://namemc.com/)  (not yet cuz cracked)
 
 ## Joindate
 * 6b6t: 27 febraury 2023
 
 
 ## Acomplishments
-- Reached nether border traveling by hand from 0-0
+- Reached nether border traveling by hand from 0 0
 - Griefed several bases and megabases
 - Removed 70% of the obsidian box at spawn, full vanilla
 - Top gold hoes crafted till october 2023
@@ -39,7 +33,7 @@ This is a template that shows how you should write a page about an user
 - Became one of the most neutral player in 6b6t
 
 ## Skin
-(skin png from GiornoGiovanna)
+![skin](https://s.namemc.com/3d/skin/body.png?id=c87ba4da13890910&model=slim&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
 - Owner of Mapart Empire (ex-Hentai Empire)

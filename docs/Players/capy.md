@@ -31,11 +31,11 @@ tags:
 ## Clans
 * [Shulkergang](../Groups/shulkergang.md)
 * [Hive](../Groups/hive.md)
+* DonFuer 6b6t
+* [555](../Groups/555.md)
 * Pyromaniac Fireflies
-* 555
 * Exodus
 * Cumgang
-* DonFuer 6b6t
 * 6b6t times (news reporter)
 * 6b6t collectables network
 * Point Nightfall (dead building group)

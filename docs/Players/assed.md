@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'User template'
+sidebar_label: '_assed_'
 title: 'assed_'
 tags:
   - Player
@@ -7,8 +7,7 @@ tags:
 ---
 
 ## Identity
-* Formal name: assed_
-* Mainly goes by: assed_
+* Name: `assed_`1
 * Alts: PussyControl, MisterExcalibur
 
 ## Contacts:

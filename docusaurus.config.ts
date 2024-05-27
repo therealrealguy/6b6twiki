@@ -5,7 +5,6 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from 'prism-react-renderer';
-import type { Options as PageOptions } from '@docusaurus/plugin-content-pages';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -34,6 +33,16 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  plugins: [
+    [
+      "vercel-analytics",
+      {
+        debug: true,
+        mode: 'auto',
+      },
+    ],
+  ],
 
   presets: [
     [

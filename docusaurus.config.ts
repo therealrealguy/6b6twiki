@@ -5,6 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from 'prism-react-renderer';
+import type { Options as PageOptions } from '@docusaurus/plugin-content-pages';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -42,6 +43,11 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/', // Serve the docs at the site's root
+          editUrl: ({ locale, docPath }) => {
+            return `https://github.com/therealrealguy/6b6twiki/edit/main/docs/${docPath}`;
+          },
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -101,7 +107,7 @@ const config = {
             ],
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 6b6t wiki, Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 6b6t wiki and contributors`,
       },
       prism: {
         theme: prismThemes.github,

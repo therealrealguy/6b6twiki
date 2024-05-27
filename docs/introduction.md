@@ -40,5 +40,5 @@ Related links:
 * [6b6t's official Facebook](https://www.facebook.com/6b6tAnarchy)
 * [6b6t's official Pinterest](https://www.pinterest.com/6b6tanarchy)
 * [6b6t's official Blog](https://www.6b6t.org/en/blog)
-* 
+
 ![banner](../static/img/icons/banner.avif)

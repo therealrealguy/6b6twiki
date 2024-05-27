@@ -22,7 +22,7 @@ tags:
 
 ## Acomplishments
 * Built a huge ass jesus at his base
-* Griefed an Imperial Wall with [scarthebest1943](../Users/scar.md)
+* Griefed an Imperial Wall with [scarthebest1943](../Players/scar.md)
 * Got invited into cumgang and built stuff at their bases
 * Made a bot with BeveledCube named LaserB0T
 * Made videos on 6b6t for a short while

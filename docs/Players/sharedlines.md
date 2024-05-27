@@ -26,11 +26,11 @@ tags:
 
 ### Groups
 * Laggang member (Disbanded)
-* [Hive](../groups/hive) member
+* [Hive](../Groups/hive) member
 * former Exodus clan member
 * former 6b6t Times owner
 * former G.C.P.D.S.I.K.E.A.D member
-* former [ShulkerGang](../groups/shulkergang) member
+* former [ShulkerGang](../Groups/shulkergang) member
 
 ### Skin
 ![Sharedlines](https://s.namemc.com/3d/skin/body.png?id=4c4d64932237fcf2&model=classic&width=80&height=160)

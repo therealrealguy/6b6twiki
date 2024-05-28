@@ -16,7 +16,7 @@ const config = {
   url: 'https://6b6t-wiki.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/6b6twiki',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -40,25 +40,6 @@ const config = {
       {
         debug: true,
         mode: 'auto',
-      },
-    ],
-    [
-      '@docusaurus/plugin-client-redirects',
-      {
-        fromExtensions: ['html', 'htm'], // /myPage.html -> /myPage
-        toExtensions: ['exe', 'zip'], // /myAsset -> /myAsset.zip (if latter exists)
-        redirects: [
-          // /docs/oldDoc -> /docs/newDoc
-          /*{
-            to: '/6b6twiki/introduction',
-            from: '/',
-          },*/
-        ],
-        createRedirects(existingPath) {
-          return [
-            `/6b6twiki${existingPath}`
-          ];
-        },
       },
     ],
   ],

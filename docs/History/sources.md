@@ -21,19 +21,26 @@ It seems to this day he doesn't like qbasty or `6b6t`.
 I also think that qbasty reset the server/world jan 16, 2022, the day it started (according to the website)
 
 # Original text by DSNS (Discord: dsns)
-- i can try to fill you guys with information about 6b
-- the first thing is that the current `6b6t` website is lying, `6b6t` is much older than 2022, it was actually created at least before july 2019.
-
-- i believe Leeewith3E was the owner during 2019, when i first joined the server
-- he released an ad for `6b6t` july 18 2019 on his channel https://www.youtube.com/watch?v=eaW-yZpxiqk
-![Leee 6b6t ad](https://6b6t-wiki.vercel.app/vids/Leee/2b2t%20the%20best%202b2t%20clone%206b6t.org%20-%20Leee.mp4)
-- the server was kinda active, nowhere near the player count it is today
-![Leee 6b6t.co is the real 6b6t and the truth about bleepo vid](https://6b6t-wiki.vercel.app/img/Screenshots/leee%20vid.png)
-- there was a bunch of admin abuse, thetroll2001 had OP perms
-- i think the `6b6t` domain was actually taken from leee without his permission 
-- he explained it in this video, leee went on to create `6b6t.co` https://www.youtube.com/watch?v=LQfO_RxcHxI
-- ofc take his word with a grain of salt
-- actually here is a description by lee himself https://wiki.8b8t.me/index.php?title=History#:~:text=6b6t.org%20/%206b6t.co%20Era%20(March%202019%20to%20January%202021),-The%206b6t%20era  
+```
+i can try to fill you guys with information about 6b
+the first thing is that the current `6b6t` website is lying, `6b6t` is much older than 2022, it was actually created at least before july 2019.
+```
+```
+i believe Leeewith3E was the owner during 2019, when i first joined the server
+he released an ad for `6b6t` july 18 2019 on his channel https://www.youtube.com/watch?v=eaW-yZpxiqk
+```
+[Attachment: Leee's 6b6t ad on yt](https://youtu.be/_-GOP7CzC3Q)
+```
+the server was kinda active, nowhere near the player count it is today
+```
+[Link: another leee vid](https://youtu.be/p-SY7RqKGnQ)
+```
+there was a bunch of admin abuse, thetroll2001 had OP perms
+i think the `6b6t` domain was actually taken from leee without his permission 
+he explained it in this video, leee went on to create `6b6t.co` https://www.youtube.com/watch?v=LQfO_RxcHxI
+ofc take his word with a grain of salt
+actually here is a description by lee himself https://wiki.8b8t.me/index.php?title=History#:~:text=6b6t.org%20/%206b6t.co%20Era%20(March%202019%20to%20January%202021),-The%206b6t%20era  
+```
 
 ### North later replied to the second message
 - <ins>North</ins>: leee made the server because someone else bought 0b0t after the domain expired, after that it was passed to bleepo in 2020

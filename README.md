@@ -8,6 +8,6 @@ https://discord.gg/WvQFeCmNDB
 # Todo
 * [ ] Add entries and gather information about
   * [x] History
-  * [ ] Groups
+  * [x] Groups
   * [ ] Bases
 * [ ] Add a search feature

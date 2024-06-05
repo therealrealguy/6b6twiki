@@ -2,7 +2,7 @@
 Built using [Docusaurus](https://docusaurus.io/) and this [tutorial](https://youtu.be/2R53Y7eP45k)
 
 # Discord
-join our discord:
+Join our discord:
 https://discord.gg/WvQFeCmNDB
 
 # Todo

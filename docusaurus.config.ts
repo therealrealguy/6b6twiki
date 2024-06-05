@@ -65,64 +65,68 @@ const config = {
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      // Replace with your project's social card
-      image: 'img/icons/logo.jpg',
-      navbar: {
-        title: 'The 6b6t wiki',
-        logo: {
-          alt: '6b6t wiki logo',
-          src: 'img/icons/logo.jpg',
+  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+
+  themeConfig: {
+    metadata: [
+      { name: "google-site-verification", content: "TM1MyWeYZEmT--lxzcEtdi-KdsHoZssOWFrP6NZBd9Q" }
+    ],
+
+    // Replace with your project's social card
+    image: 'img/icons/logo.jpg',
+    navbar: {
+      title: 'The 6b6t wiki',
+      logo: {
+        alt: '6b6t wiki logo',
+        src: 'img/icons/logo.jpg',
+      },
+      items: [
+        { to: '/', label: 'Wiki', position: 'left' },
+        {
+          href: 'https://github.com/therealrealguy/6b6twiki/',
+          label: 'GitHub',
+          position: 'right',
         },
-        items: [
-          { to: '/', label: 'Wiki', position: 'left' },
-          {
-            href: 'https://github.com/therealrealguy/6b6twiki/',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Useful links',
-            items: [
-              {
-                label: '6b6t.org Official Website',
-                to: 'https://www.6b6t.org/',
-              },
-              {
-                label: 'Credits',
-                to: '/credits',
-              }
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/Em4AAcjXvD',
-              },
-              {
-                href: 'https://github.com/therealrealguy/6b6twiki/',
-                label: 'GitHub',
-                position: 'right',
-              },
-            ],
-          }
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} 6b6t wiki and contributors`,
-      },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-      },
-    }),
+      ],
+    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Useful links',
+          items: [
+            {
+              label: '6b6t.org Official Website',
+              to: 'https://www.6b6t.org/',
+            },
+            {
+              label: 'Credits',
+              to: '/credits',
+            }
+          ],
+        },
+        {
+          title: 'Community',
+          items: [
+            {
+              label: 'Discord',
+              href: 'https://discord.gg/Em4AAcjXvD',
+            },
+            {
+              href: 'https://github.com/therealrealguy/6b6twiki/',
+              label: 'GitHub',
+              position: 'right',
+            },
+          ],
+        }
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} 6b6t wiki and contributors`,
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  },
 };
 
 export default config;

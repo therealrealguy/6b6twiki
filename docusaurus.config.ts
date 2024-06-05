@@ -69,7 +69,7 @@ const config = {
 
   themeConfig: {
     metadata: [
-      { name: "google-site-verification", content: "TM1MyWeYZEmT--lxzcEtdi-KdsHoZssOWFrP6NZBd9Q" }
+      { name: "google-site-verification", content: "zEcfz-ZXbEPKQObsyRa79zX2PJFDbBtPZetnpEc9NaU" }
     ],
 
     // Replace with your project's social card

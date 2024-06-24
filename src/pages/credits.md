@@ -3,7 +3,7 @@ title: 6b6t wiki Credits
 ---
 
 # Credits
-See all contributors on the [GitHub](https://github.com/therealrealguy/6b6twiki/) repository
+See all contributors on the [GitHub](https://github.com/therealrealguy/6b6twiki/graphs/contributors) repository
 
 * **[North](https://6b6t-wiki.vercel.app/Users/North)**:
   * Idea man

@@ -69,9 +69,9 @@ const config = {
 
   themeConfig: {
     algolia: {
-      appId: "CV5H08FRCR",
-      apiKey: "3409500f66cb5199446d126aeceeaa6f",
-      indexName: "6b6t_wiki",
+      appId: "GH0QQ503MS",
+      apiKey: "baad2528139732bf5c214ebece5028c1",
+      indexName: "6b6t-wiki",
       
       contextualSearch: true,
       searchPagePath: "search", // Optional: path for search page that enabled by default (`false` to disable it)

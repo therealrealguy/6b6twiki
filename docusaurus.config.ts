@@ -71,7 +71,7 @@ const config = {
     algolia: {
       appId: "CV5H08FRCR",
       apiKey: "3409500f66cb5199446d126aeceeaa6f",
-      indexName: "6b6t-wiki",
+      indexName: "6b6t_wiki",
       
       contextualSearch: true,
       searchPagePath: "search", // Optional: path for search page that enabled by default (`false` to disable it)

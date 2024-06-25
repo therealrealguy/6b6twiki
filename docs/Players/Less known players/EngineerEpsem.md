@@ -28,4 +28,7 @@ tags:
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=9e7bee07528026c3&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
+* Bogob
+
+## Old Clans
 * TSR

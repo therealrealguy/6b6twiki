@@ -9,7 +9,7 @@ tags:
 # `helpun`
 
 ## Identity
-* Full username: helpun
+* Username: helpun
 
 ## Contacts:
 * Discord: `h3lpmebro`

@@ -10,4 +10,4 @@ https://discord.gg/WvQFeCmNDB
   * [x] History
   * [x] Groups
   * [ ] Bases
-* [ ] Add a search feature
+* [X] Add a search feature

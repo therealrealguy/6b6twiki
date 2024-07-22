@@ -41,9 +41,15 @@ tags:
 ## Clans
 - 555 clan
 - donfuer 6b6t
+- Imperials' 6b6t branch
+- The collective 2b2t
+- Tesseract
 - mapart empire (period of inactivity)
 - cumgang
 - the legion
+- Military
+- Dacia
+- Europa
 - (many other clans too small to be noteable)
 
 ### Previous clans
@@ -52,6 +58,8 @@ tags:
 - Exodus (*died*)
 - The Legion (*died*)
 - GGG (*kicked out then group disbanded*)
+- 6b6t times (*previously a reporter but then died*)
+- 
 
 ## Skin
 Cracked account, but uses: [mossy cobblestone steve](https://www.planetminecraft.com/skin/mossy-cobblestone-steve-trailer-steve/)

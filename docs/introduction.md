@@ -28,7 +28,7 @@ Welcome to the 6b6t Wiki, the go to page for information regarding 6b6t.org. Thi
 
 ## About 6b6t
 ---
-6b6t is the largest cracked anarchy servers, running on Folia server software that, along with other optimisations, allows 1000 players to be online at the same time in one world. Just like other anarchy servers, it has no rules, no punishments and no chat filters, but, unlike other anarchy servers it has /tpa and /home, the reasons for this are explained [here](https://www.6b6t.org/en/blog/minecraft-anarchy-server-tpa-home). 6b6t is owned by Qbasty and started on January 16th, 2022, and has merged maps with 7b7t, created with the hopes of being the best lag-free anarchy server with no queues.
+6b6t is the largest cracked anarchy server, running on Folia server software that, along with other optimisations, allows 1000 players to be online at the same time in one world. Just like other anarchy servers, it has no rules, no punishments and no chat filters, but, unlike other anarchy servers it has /tpa and /home, the reasons for this are explained [here](https://www.6b6t.org/en/blog/minecraft-anarchy-server-tpa-home). 6b6t is owned by Qbasty and started on January 16th, 2022, and has merged maps with 7b7t, created with the hopes of being the best lag-free anarchy server with no queues.
 
 Related links:
 * [6b6t's official discord server](https://discord.gg/6b6t)

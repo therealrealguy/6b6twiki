@@ -43,7 +43,6 @@ tags:
 - donfuer 6b6t
 - Imperials' 6b6t branch
 - The collective 2b2t
-- Tesseract
 - mapart empire (period of inactivity)
 - cumgang
 - the legion
@@ -59,7 +58,7 @@ tags:
 - The Legion (*died*)
 - GGG (*kicked out then group disbanded*)
 - 6b6t times (*previously a reporter but then died*)
-- 
+- Tesseract (*kicked out then group disbanded*)
 
 ## Skin
 Cracked account, but uses: [mossy cobblestone steve](https://www.planetminecraft.com/skin/mossy-cobblestone-steve-trailer-steve/)

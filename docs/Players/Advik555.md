@@ -33,6 +33,12 @@ tags:
 * ........_.......
 * ABCDEFGHKLMNOP
 * Quebastie
+* AdvikSSS
+* Advik5SS
+* Advik55S
+* AdvikS55
+* AdvikSS5
+
 
 ## Acomplishments
 - Founder of The [555](https://6b6t-wiki.vercel.app/Groups/555)

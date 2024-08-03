@@ -31,6 +31,8 @@ tags:
 * Advikl23
 * 8b8t.org
 * ........_.......
+* ABCDEFGHKLMNOP
+* Quebastie
 
 ## Acomplishments
 - Founder of The [555](https://6b6t-wiki.vercel.app/Groups/555)

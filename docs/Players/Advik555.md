@@ -38,6 +38,9 @@ tags:
 * Advik55S
 * AdvikS55
 * AdvikSS5
+* rootbear20
+* kivda321
+* 321kivda
 
 
 ## Acomplishments

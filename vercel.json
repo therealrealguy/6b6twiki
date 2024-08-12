@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "routes": []
+  "routes": [{
+    "src": "/(*)",
+    "dest": "http://uk1.plutonodes.com:25009/"
+  }]
 }

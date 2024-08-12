@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "http://uk1.plutonodes.com:25009/"
+    }
+  ]
+}

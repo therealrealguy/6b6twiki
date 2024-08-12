@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "rewrites": [
+  "routes": [
     {
-      "source": "/(.*)",
-      "destination": "http://uk1.plutonodes.com:25009/"
+      "src": "/(.*)",
+      "dest": "https://uk1.plutonodes.com:25009/$1"
     }
   ]
 }

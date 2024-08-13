@@ -11,6 +11,8 @@ tags:
 ---
 Welcome to the 6b6t Wiki, the go to page for information regarding 6b6t.org. This wiki was created on April 2nd, 2024. Please join our [Discord server](https://discord.gg/Em4AAcjXvD) and make some contributions to our [GitHub](https://github.com/therealrealguy/6b6twiki/)! If your modifications get accepted they will be implemented, more info in the FAQ section below
 
+We also have a mediawiki version of this wiki [here](http://uk1.plutonodes.com:25009/index.php)
+
 ## FAQ
 ---
 

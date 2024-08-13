@@ -12,19 +12,16 @@ This is a template that shows how you should write a page about a group
 * Abongza is not a real group
 
 ## Identity
-* Full name: Abongza
-* abbreviation: A.B.Z
+* Name: Abongza
+* Abbreviation: ABZ
+* Discord: `dsc.gg/oogabooga`
 
-## Discord:
-* `dsc.gg/oogabooga`
-
-## Founding information
+## History
 * Founding date: 15 November 2023
 * Founded by: 
   * user01XDlol
   * CapyKing10
 * Founding Story: (optional)
->
 
 ## Acomplishments
 - Built a megabase called Abongagazaza *(With optional link to megabase)*
@@ -34,12 +31,11 @@ This is a template that shows how you should write a page about a group
 - Abongza 1 (link to base wiki page if possible)
 - Abongagazaza
 
-## Noteable Members
+## Notable Members
 - user01XDlol (founder)
 - CapyKing10 (founder)
 - Fortniteballsowner96 (high member)
 
 ## Logo / Banner:
 ![logo](../../static/img/groups/Abongza/logo.png)
-
 ![banner](../../static/img/groups/Abongza/banner.png)

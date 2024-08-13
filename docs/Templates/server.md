@@ -21,11 +21,12 @@ You may modify according to your needs
   * `6b6t.org`
   * `anarchy.6b6t.org`
   * `play.6b6t.org`
+  * `bedrock.6b6t.org` port: `19132`
 
 Owner: [qbasty](../Players/qbasty.md)
 
 ### Clans
-*Note: this is optional as there may be many clans*
+*Note: It is not required to list all of the clans*
 - Colonizadores
 - 555
 - Exodus

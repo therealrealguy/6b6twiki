@@ -29,7 +29,7 @@ tags:
 ## Acomplishments
 - Built a megabase called Hive 2!
 - Built a base called Hive Halloween!
-- Had some of the mote noteable 6b6t players as builders!
+- Had some of the mote Notable 6b6t players as builders!
 
 ## Bases
 - Hive 1 (pyromaniac fireflies)

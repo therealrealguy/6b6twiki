@@ -61,7 +61,7 @@ tags:
 - Military
 - Dacia
 - Europa
-- (many other clans too small to be noteable)
+- (many other clans too small to be Notable)
 
 ### Previous clans
 - Cheese clan (*died*)

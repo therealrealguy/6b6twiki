@@ -7,29 +7,25 @@ tags:
   - Contributing
 ---
 
-This is a template that shows how you should write a page about an user
-**NOTES:**
-* user01xdlol is not a real person
+**NOTE:** user01xdlol is not a real person
 
 ## Identity
 * Formal name: user01XDlol
 * Mainly goes by: user
-
-## Contacts:
 * Discord: `user01xdlol.`
 * [YouTube](https://www.youtube.com/)
 * [NameMC](https://namemc.com/)
 
 ## Joindate
 * 6b6t: insert joindate here
-* 7b7t: insert joindate here jf you played 7b, else remove line.
+* other servers: insert joindate here if the user played other anarchy servers
 
 ## Acomplishments
 - Built highway called interstate 01
 - Griefed bot01's megabase *(With optional link to megabase)*
 
 ## Skin
-(skin png from namemc)
+(skin from namemc, format: `![Skin](skin PNG url)`)
 
 ## Clans
 - usee clan

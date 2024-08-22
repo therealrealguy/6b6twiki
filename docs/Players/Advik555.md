@@ -47,7 +47,6 @@ tags:
 ## Acomplishments
 - Founder of The [555](https://6b6t-wiki.vercel.app/Groups/555)
 - Flown 46+ million blocks on the server
-- Discovered /name exploit (not the first to find it but did find it independently)
 - Found a modified version of the item frame dupe at the time when normal frame dupe didnt work
 
 ## Clans

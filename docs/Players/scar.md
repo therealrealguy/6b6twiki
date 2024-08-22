@@ -36,6 +36,7 @@ tags:
 * Became one of the largest 6b6t content creators 
 * Discovered an [auth](https://www.youtube.com/watch?v=rZHIQOuM0tM) exploit with [Sharedlines](../Players/sharedlines.md) in mid 2023 when 6b6t first switched over to foila
 * Discovered a boat fly bypass (Currently not public)
+* Discovered a lag exploit
 * Insided a lot of clans/groups (most of the time ended up griefing their bases)
 
 ## Skin

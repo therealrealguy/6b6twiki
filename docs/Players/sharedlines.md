@@ -22,7 +22,6 @@ tags:
 * Boatfly exploit
 * [Auth exploit](https://www.youtube.com/watch?v=rZHIQOuM0tM)
 * Crash/lag exploits
-* Player Coordinate exploit 
 
 ### Groups
 * Laggang member (Disbanded)

@@ -41,7 +41,7 @@ tags:
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=dd1b53c1fb347121&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
-## Clans
+## Groups
 * Mapart Empire (Otherwise known as The Hentai Empire)
 * Shulkergang 
 * Hive
@@ -51,11 +51,11 @@ tags:
 * 6b6t times
 * DonFuer 6b6t
 
-## Inactive Clans
+## Inactive Groups
 * Exodus (Disbanded)
+* Anti-Imps (Disbanded)
 * TTD 
 * Pyromaniac's Fireflies
-* Anti-Imps
 * The Fallen empire
 * The Fallen kingdom
 * Fellowship of farmers

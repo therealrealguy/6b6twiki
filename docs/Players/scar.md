@@ -6,7 +6,7 @@ tags:
   - 6b6t
 ---
 
-# `scarsthebest1943`
+# `scarthebest1943`
 
 ## Identity
 * Formal name: scarthebest1943
@@ -22,7 +22,8 @@ tags:
 
 ## Minecraft Account list
 * [scarthebest1943](https://namemc.com/profile/scarthebest1943.1)
-* [Very_Touchy](https://namemc.com/profile/Very_Touchy.1)
+* [6Builders6Tools](https://namemc.com/profile/6Builders6Tools.1)
+* [N0C0M](https://namemc.com/profile/N0C0M.1)
 * Seduced
 * oldmackdonald
 * 6b6t_Times
@@ -31,34 +32,31 @@ tags:
 * L3goMan3d
 
 ## Acomplishments
-* Becoming one of the most well known griefers on 6b
-* Became one of the biggest 6b6t content creators 
-* Discovering an [auth](https://www.youtube.com/watch?v=rZHIQOuM0tM) exploit with [Sharedlines](../Players/sharedlines.md) in mid 2023 when 6b6t first switched over to foila
+* Became one of the most well known griefers on 6b
+* Became one of the largest 6b6t content creators 
+* Discovered an [auth](https://www.youtube.com/watch?v=rZHIQOuM0tM) exploit with [Sharedlines](../Players/sharedlines.md) in mid 2023 when 6b6t first switched over to foila
 * Discovered a boat fly bypass (Currently not public)
+* Discovered a lag exploit
 * Insided a lot of clans/groups (most of the time ended up griefing their bases)
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=dd1b53c1fb347121&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
-## Clans
+## Groups
 * Mapart Empire (Otherwise known as The Hentai Empire)
-* Shulkergang
+* Shulkergang 
 * Hive
 * 555
-* Exodus
 * Cumgang
-* Soul Society
 * 6b6t Collectables
-* The 6b6t Collectables Network
-* The Terracotta dupemen
-* Pyromaniac's Fireflies
-* Horizon
-* Crazy Rats kits
-* The Legion
-* Cheese clan
-* Fellowship of farmers
 * 6b6t times
-* The Fallen kingdom
-* The Fallen empire
 * DonFuer 6b6t
-* Anti-Imps
+
+## Inactive Groups
+* Exodus (Disbanded)
+* Anti-Imps (Disbanded)
+* TTD 
+* Pyromaniac's Fireflies
+* The Fallen empire
+* The Fallen kingdom
+* Fellowship of farmers

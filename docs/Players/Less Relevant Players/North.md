@@ -30,7 +30,7 @@ tags:
 
 ## Clans
 * Mapart Empire
-* [The Hive](../Groups/hive.md)
+* [The Hive](../../Groups/hive.md)
 * Exodus
 * Ex 6b6t times member
 * Cumgang

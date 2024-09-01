@@ -53,6 +53,8 @@ tags:
 - Created a 15,000x15,000 map of 6b6t spawn
 - Created the 6b6t wiki
 - The oldest player that continues to be extremly active on the server
+- Discovered the /name exploit (AKA white name exploit)
+- Discovered 120 BPS+ elytra fly config
 
 ## Clans
 - 555 clan

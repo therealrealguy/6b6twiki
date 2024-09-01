@@ -49,6 +49,10 @@ tags:
 - Flown 46+ million blocks on the server
 - Found a modified version of the item frame dupe at the time when normal frame dupe didnt work (555.1 dupe)
 - Found a restart dupe named 555.2 dupe
+- Placed over 1 million obsidian blocks on the server
+- Created a 15,000x15,000 map of 6b6t spawn
+- Created the 6b6t wiki
+- The oldest player that continues to be extremly active on the server
 
 ## Clans
 - 555 clan

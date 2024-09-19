@@ -27,9 +27,12 @@ tags:
 * 6b6t: 25 march 2023
 
 ## Acomplishments
-* Made alot of 6b6t videos (Mostly griefing)
-* Contributed to the largest mapart in the server!
-* Discovered a [flight exploit](https://www.youtube.com/watch?v=hGC1wILneAA&t=9s) that goes 400km/h!
+* Built 555 bedrock logos at spawn (screenshots can be found in [The 555's discord server](https://dsc.gg/the555))
+* Created anti-imperials (got nuked)
+* Became co-owner of the 555
+* Created endless inventories
+* created a spawn ocean in the summer of 2022
+* Blew up akit if stuff at spawn
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=b4af04a914e761ee&model=classic&theta=30&phi=21&time=90&width=100&height=200)

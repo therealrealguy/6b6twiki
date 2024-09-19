@@ -12,7 +12,7 @@ tags:
 * Formal name: CapyKing10
 * Mainly goes by: Capy
 * In game usernames
-* * DuhDeadlyDurk
+  * DuhDeadlyDurk
   * The_Mapper
   * justmedurk
   * itsmedurk

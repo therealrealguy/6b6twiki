@@ -11,6 +11,12 @@ tags:
 ## Identity
 * Formal name: CapyKing10
 * Mainly goes by: Capy
+* In game usernames
+* * DuhDeadlyDurk
+  * The_Mapper
+  * justmedurk
+  * itsmedurk
+  * abudhabifan
 
 ## Contacts
 * Discord: `capyking10.`
@@ -26,18 +32,11 @@ tags:
 * Discovered a [flight exploit](https://www.youtube.com/watch?v=hGC1wILneAA&t=9s) that goes 400km/h!
 
 ## Skin
-![Skin](https://s.namemc.com/3d/skin/body.png?id=c1880e115a13cc81&model=classic&theta=30&phi=21&time=90&width=100&height=200)
+![Skin](https://s.namemc.com/3d/skin/body.png?id=b4af04a914e761ee&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
-* [Shulkergang](../../Groups/shulkergang.md)
-* [Hive](../../Groups/hive.md)
-* DonFuer 6b6t
-* [555](../../Groups/555.md)
-* Pyromaniac Fireflies
-* Exodus
-* Cumgang
+* [The 555](../../Groups/555.md)
 * 6b6t times (news reporter)
-* 6b6t collectables network
-* Point Nightfall (dead building group)
-* Anti-imps
-* Spawn Oasis Foundation
+* Anti-imperials
+* Not project 104n't
+* Endless inventories

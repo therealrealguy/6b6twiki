@@ -30,17 +30,15 @@ Welcome to the 6b6t Wiki, the go to page for information regarding 6b6t.org. Thi
 
 ## About 6b6t
 ---
-6b6t is the largest cracked anarchy server, running on Folia server software that, along with other optimisations, allows 1000 players to be online at the same time in one world. Just like other anarchy servers, it has no rules, no punishments and no chat filters, but, unlike other anarchy servers it has /tpa and /home, the reasons for this are explained [here](https://www.6b6t.org/en/blog/minecraft-anarchy-server-tpa-home). 6b6t is owned by Qbasty and started on January 16th, 2022, and has merged maps with 7b7t, created with the hopes of being the best lag-free anarchy server with no queues.
+6b6t is the largest Minecraft anarchy server, running on Folia server software that, along with other optimisations, allows 1000 players to be online at the same time in one world. Just like other anarchy servers, it has no rules, no punishments and no chat filters, but, unlike other anarchy servers it has /tpa and /home, the reasons for this are explained [here](https://blog.6b6t.org/about-6b6t/). 6b6t is owned by Qbasty and was started on January 16th, 2022, and has merged maps with 7b7t, created with the hopes of being the best lag-free anarchy server with no queues.
 
 Related links:
-* [6b6t's official discord server](https://discord.gg/6b6t)
+* [6b6t's official discord server](https://discord.6b6t.org)
 * [6b6t's official subreddit](https://www.reddit.com/r/6b6t/)
 * [6b6t's official twitter/X](https://twitter.com/6b6tAnarchy)
-* [6b6t's official youtube channel](https://www.youtube.com/c/6b6tanarchy)
+* [6b6t's official youtube channel](https://www.youtube.com/@6b6t)
 * [6b6t's official TikTok](https://www.tiktok.com/@6b6tanarchy)
 * [6b6t's official Instagram](https://www.instagram.com/6b6tanarchy/)
-* [6b6t's official Facebook](https://www.facebook.com/6b6tAnarchy)
-* [6b6t's official Pinterest](https://www.pinterest.com/6b6tanarchy)
-* [6b6t's official Blog](https://www.6b6t.org/en/blog)
+* [6b6t's official Blog](https://blog.6b6t.org)
 
 ![banner](../static/img/icons/banner.avif)
